@@ -1,15 +1,11 @@
 <h1>Exercícios</h1>
 
-<h2 id="introducao">Introdução ao JavaScript</h2>
-
-<hr />
+<h2>Introdução ao JavaScript</h2>
 
 <h3>Exercício 1</h3>
 <p>Baixar o arquivo <a href="https://raw.githubusercontent.com/woodyalan/javascript/master/exercicios/exercicio1.html" target="_blank">HTML</a> e o arquivo <a href="https://raw.githubusercontent.com/woodyalan/javascript/master/css/style.css" target="_blank">CSS</a> bases desse exercício e executar os passos solicitados na página web.</p>
 
-<h2 id="sintaxe">Sintaxe</h2>
-
-<hr />
+<h2>Sintaxe</h2>
 
 <h3>Exercício 2</h3>
 <p>Construa uma página HTML que permita que o usuário informe 2 números, com 4 botões, um para cada operação (soma, subtração, multiplicação e divisão) utilizando funções e exiba uma mensagem HTML com o resultado da operação.</p>
