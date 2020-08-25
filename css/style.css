@@ -65,3 +65,7 @@ a:hover {
 .btn-danger:active {
   background-color: #ec583d;
 }
+
+.hide {
+  display: none;
+}

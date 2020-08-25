@@ -1,6 +1,4 @@
-document.querySelector('#btnCarregar').onclick = function (e) {
-  e.preventDefault();
-
+document.querySelector('#btnCarregar').onclick = function () {
   var square = document.querySelector('#resultMessage');
 
   square.innerHTML = 'Conteúdo carregado dinâmicamente';
