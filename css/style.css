@@ -69,3 +69,7 @@ a:hover {
 .hide {
   display: none;
 }
+
+.text-center {
+  text-align: left;
+}
