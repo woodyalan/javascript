@@ -16,7 +16,7 @@
 <h3>Exercício 4</h3>
 <p>Construa uma página HTML que permita montar uma lista de compras. O usuário deverá informar a quantidade, unidade de medida (Kilograma, Unidade, Litro) e uma descrição do produto. O item deverá ser armazenado em um objeto que posteriormente será adicionado a um array. Em seguida utiliza o console para exibir a lista de itens.</p>
 
-<h2>Condicionais e Fluxos de Execução</h2>
+<h2>Condicionais, Laços e Iterações</h2>
 
 <h3>Exercício 5</h3>
 <p>Aprimorando o exercício 4, exiba a lista de items utilizando HTML.</p>
