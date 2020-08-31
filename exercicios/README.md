@@ -23,3 +23,6 @@
 
 <h3>Exercício 6</h3>
 <p>Aprimorando o exercício 5, permita que o item seja marcado como comprado, alterando a aparência do item na lista.</p>
+
+<h3>Exercício 7</h3>
+<p>Utilizando o exercício 2, faça uma refatoração utilizando o codicional switch.</p>

@@ -1,6 +1,28 @@
-.form-group {
+.w20 {
+  display: inline-block;
   width: 20%;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.w10 {
+  display: inline-block;
+  width: 10%;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.w50 {
+  display: inline-block;
+  width: 50%;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.form-group {
   margin-bottom: 10px;
+  display: block;
+  margin: 10px;
 }
 
 .form-group label {
@@ -9,9 +31,15 @@
   display: block;
 }
 
-.form-group input,
-.form-group select {
-  width: 100%;
+.form-control {
+  display: block;
+  width: 90%;
   height: 30px;
+  padding-left: 8px;
   margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.form-group select {
+  height: 36px;
 }
