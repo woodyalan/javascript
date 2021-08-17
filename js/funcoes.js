@@ -1,11 +1,11 @@
-function carregarConteudo() {
-  var square = document.querySelector('#resultMessage');
+function carregarConteudo(conteudo) {
+  var square = document.querySelector("#resultMessage");
 
-  square.innerHTML = 'Conteúdo carregado dinâmicamente';
+  square.innerHTML = conteudo;
 }
 
-document.querySelector('#btnCarregar').onclick = function (e) {
+document.querySelector("#btnCarregar").onclick = function (e) {
   e.preventDefault();
 
-  carregarConteudo();
+  carregarConteudo("Conteúdo carregado dinâmicamente por parâmetro");
 };

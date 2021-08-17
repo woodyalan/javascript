@@ -1,8 +1,8 @@
-var button = document.querySelector('.btn');
+var button = document.querySelector(".btn");
 
-var classList = button.classList;
+var classes = button.classList;
 
-classList.add('btn-danger');
-classList.remove('btn-danger');
+classes.add("btn-danger");
+classes.remove("btn-danger");
 
-console.log(classList.contains('btn-danger'));
+console.log(classes.contains("btn-danger"));

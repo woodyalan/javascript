@@ -1,3 +1,3 @@
-var square = document.querySelector('#resultMessage');
+var square = document.querySelector("#resultMessage");
 
-square.innerHTML = 'Conteúdo <em>carregado</em> dinâmicamente';
+square.innerHTML = "Conteúdo <em>carregado</em> dinâmicamente";
